@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277406814439",
+    "project_id": "sfcapp-efa6a",
+    "storage_bucket": "sfcapp-efa6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277406814439:android:fe4b4f06085b859f03d242",
+        "android_client_info": {
+          "package_name": "com.example.sfc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZhKiUOJ3HxTF5C4W5I_FSPE_EXMgZoH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
